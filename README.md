@@ -13,7 +13,9 @@
 
 - 📫 How to reach me **sachindilshan040@gmail.com**
 
-https://www.buymeacoffee.com/toozuuu
+<a href="https://www.buymeacoffee.com/toozuuu">
+  ![image](https://github.com/toozuuu/toozuuu/assets/42318070/2cdd0b57-ac5b-4b7f-8aec-1ba88b6fa5bd)
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
