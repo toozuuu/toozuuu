@@ -9,19 +9,14 @@
 
 - 🌱 I’m currently learning **Next.js , Reactjs , Vuejs**
 
-- 💬 Ask me about **Angular , Spring Boot , HTML/CSS , JavaScript**
+- 💬 Ask me about **Angular, Spring Boot, HTML/CSS, JavaScript**
 
 - 📫 How to reach me **sachindilshan040@gmail.com**
-
-<a href="https://www.buymeacoffee.com/toozuuu">
-  ![image](https://github.com/toozuuu/toozuuu/assets/42318070/2cdd0b57-ac5b-4b7f-8aec-1ba88b6fa5bd)
-</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sachindilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachindilshan" height="30" width="40" /></a>
 <a href="https://fb.com/xyxniee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xyxniee" height="30" width="40" /></a>
-<a href="https://instagram.com/sachin90dsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachin90dsh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
