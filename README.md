@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachin Dilshan</h1>
+<h1 align="center">Hi 👋, I'm Toozuuu</h1>
 <h3 align="center">Front End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toozuuu&label=Profile%20views&color=0e75b6&style=flat" alt="toozuuu" /> </p>
@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **Next.js , Reactjs , Vuejs**
 
 - 💬 Ask me about **Angular, Spring Boot, HTML/CSS, JavaScript**
-
-- 📫 How to reach me **sachindilshan040@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
